@@ -10,7 +10,7 @@
 학습 내용은 [위키-Wiki](https://github.com/konkuk-tech-course/network-study/wiki)에 정리되어 기록되고 있습니다.
 
 관심있거나 합류하고 싶으신 광진구 지역 거주자분들은<br/>
-아래 [Contact](###Contact) 에 작성되어 있는 메일로 연락 부탁드립니다. ☺️
+아래 [Contact](###contact) 에 작성되어 있는 메일로 연락 부탁드립니다. ☺️
 
 <br/>
 
